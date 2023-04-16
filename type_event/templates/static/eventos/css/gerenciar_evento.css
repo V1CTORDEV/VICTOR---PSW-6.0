@@ -1,0 +1,19 @@
+
+table{
+    width: 150%;
+    padding: 50px;
+    color: white;
+}
+
+.linha{
+    color: white;
+    height: 40px;
+    background-color: var(--main-color);
+    padding: 20px;
+}
+
+
+td, th{
+    color: white;
+    padding: 30px;
+}
